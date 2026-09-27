@@ -1,3 +1,5 @@
+<img width="1704" height="677" alt="Week 2 Dashboard" src="https://github.com/user-attachments/assets/7c3c0564-038f-4788-ad17-6e4627eb2e69" />
+
 FinTrust Business & Data Intelligence Assessment — Week 2
 
 Author: Mirriam Sithabile Maseko Program: Data Analytics Internship, AnalystLab Week: 2 — Data Cleaning, SQL Analysis, Python EDA and Initial Power BI Dashboard
