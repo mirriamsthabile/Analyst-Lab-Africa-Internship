@@ -19,16 +19,6 @@ The datasets are related one-to-many: one `Customer_ID` can have many transactio
 
 ## What's in this repo
 
-```
-├── README.md
-├── data/
-│   ├── FinTrust_Customer_Data.csv
-│   └── FinTrust_Transaction_Data.csv
-├── docs/
-│   └── week1_assessment.md        # Full Part A–E written assessment
-└── notebooks/
-    └── data_profiling.ipynb       # Data profiling: shape, dtypes, missing values
-```
 
 ## Week 1 summary
 
@@ -36,7 +26,7 @@ The datasets are related one-to-many: one `Customer_ID` can have many transactio
 Identified the core business questions FinTrust management needs answered — account activity status, transaction failure/reversal rates, and whether digitally engaged customers transact more — and mapped them to stakeholders (management, finance, customers) and the decisions they support (operational and digital customer support).
 
 **Part B — Data understanding**
-Profiled both datasets: field names, data types, categorical vs. numerical variables, the date/time field, and the customer-transaction relationship. Flagged data quality issues to address before analysis — missing values in `Device_Type` and `Location`, and an inconsistent date format in `Transaction_DateTime`.
+Profiled both datasets: field names, data types, categorical vs. numerical variables, the date/time field and the customertransaction relationship. Flagged data quality issues to address before analysis — missing values in `Device_Type` and `Location`, and an inconsistent date format in `Transaction_DateTime`.
 
 **Part C — Analytical questions**
 Developed questions spanning customer behaviour, transaction activity, transaction value, channels, status, and risk — for example: *Is there a relationship between Digital_Engagement_Score and transaction channel choice?* and *Is there a relationship between low engagement scores and risk flags?*
