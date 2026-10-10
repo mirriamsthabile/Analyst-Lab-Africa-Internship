@@ -1,3 +1,4 @@
+<img width="1214" height="672" alt="FinTrust Final Dashboard" src="https://github.com/user-attachments/assets/028934ca-6a04-4794-8cc2-b747a9ee4e33" />
 
 
 FinTrust Business & Data Intelligence Project
