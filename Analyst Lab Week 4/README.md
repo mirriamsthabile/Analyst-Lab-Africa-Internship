@@ -7,7 +7,8 @@ This project turns FinTrust's customer and transaction data into business intell
 
 Data: 1500 customers and 12 000 transactions linked by Customer_ID covering 1 January to 31 March 2026.
 
-<img width="1214" height="677" alt="Dashboard - Week 3" src="https://github.com/user-attachments/assets/9e22fe71-5512-4286-b0c5-3d027e056fa9" />
+<img width="1209" height="675" alt="FinTrust Dashboard" src="https://github.com/user-attachments/assets/5c93a4e2-ec1c-459b-b733-68447f91337f" />
+
 
 
 KPI	                        Value
